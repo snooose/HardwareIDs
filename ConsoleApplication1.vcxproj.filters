@@ -29,6 +29,5 @@
   </ItemGroup>
   <ItemGroup>
     <None Include=".gitignore" />
-    <None Include="readme.md" />
   </ItemGroup>
 </Project>
